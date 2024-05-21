@@ -1,1 +1,1 @@
-Teste de Entidade para app PFood
+Entidade para app PFood
